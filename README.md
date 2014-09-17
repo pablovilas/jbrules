@@ -30,4 +30,6 @@ Provided the following fact, the rule would output "Hello Pablo" to the console:
       "email": "pablovilas89@gmail.com"
     }
 
+## Credits
 
+The rules syntax used in this module is based on the node module [jools](https://github.com/tdegrunt/jools/blob/master/examples/simple.js) but the rule engine logic was been written from scrath
