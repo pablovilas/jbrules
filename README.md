@@ -32,4 +32,4 @@ Provided the following fact, the rule would output "Hello Pablo" to the console:
 
 ## Credits
 
-The rules syntax used in this module is based on the node module [jools](https://github.com/tdegrunt/jools/blob/master/examples/simple.js) but the rule engine logic was been written from scrath
+The rules syntax used in this module is based on the node module [jools](https://github.com/tdegrunt/jools) but the rule engine logic was been written from scrath
